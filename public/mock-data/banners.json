@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "image": "https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "title": "Coleção Primavera 2024",
+    "subtitle": "Até 50% OFF em produtos selecionados",
+    "link": "/products"
+  },
+  {
+    "id": "2",
+    "image": "https://images.pexels.com/photos/5868272/pexels-photo-5868272.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "title": "Frete Grátis",
+    "subtitle": "Em compras acima de R$ 200",
+    "link": "/products"
+  }
+]

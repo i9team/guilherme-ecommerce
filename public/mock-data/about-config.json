@@ -1,0 +1,70 @@
+{
+  "pageTitle": "Sobre Nós",
+  "pageDescription": "Conheça nossa história e valores",
+  "hero": {
+    "title": "Loja Premium",
+    "subtitle": "Loja premium especializada em produtos de alta qualidade com atendimento excepcional",
+    "badge": {
+      "text": "Loja Verificada",
+      "icon": "badge-check"
+    }
+  },
+  "stats": [
+    {
+      "value": "10k+",
+      "label": "Clientes",
+      "icon": "users"
+    },
+    {
+      "value": "4.9",
+      "label": "Avaliação",
+      "icon": "star"
+    },
+    {
+      "value": "98%",
+      "label": "Satisfação",
+      "icon": "heart"
+    },
+    {
+      "value": "5 anos",
+      "label": "Experiência",
+      "icon": "award"
+    }
+  ],
+  "benefits": [
+    {
+      "title": "Qualidade Premium",
+      "description": "Produtos selecionados",
+      "icon": "package",
+      "color": "blue"
+    },
+    {
+      "title": "Compra Segura",
+      "description": "Proteção total",
+      "icon": "shield",
+      "color": "emerald"
+    },
+    {
+      "title": "Entrega Rápida",
+      "description": "Envio ágil",
+      "icon": "truck",
+      "color": "purple"
+    },
+    {
+      "title": "Suporte 24/7",
+      "description": "Sempre disponível",
+      "icon": "clock",
+      "color": "orange"
+    }
+  ],
+  "mission": {
+    "title": "Nossa Missão",
+    "icon": "heart",
+    "text": "Proporcionar a melhor experiência de compra online com produtos de qualidade excepcional, preços justos e um atendimento que supera expectativas. Nosso compromisso é com a sua satisfação em cada detalhe do processo."
+  },
+  "guarantee": {
+    "title": "Compromisso com a Qualidade",
+    "icon": "check-circle",
+    "text": "Todos os produtos são cuidadosamente selecionados e testados. Garantia de satisfação ou seu dinheiro de volta em até 30 dias."
+  }
+}

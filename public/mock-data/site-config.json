@@ -1,0 +1,22 @@
+{
+  "siteName": "Loja Premium",
+  "logo": "https://images.pexels.com/photos/1787236/pexels-photo-1787236.jpeg?auto=compress&cs=tinysrgb&w=200",
+  "favicon": "https://images.pexels.com/photos/1787236/pexels-photo-1787236.jpeg?auto=compress&cs=tinysrgb&w=64",
+  "tagline": "Qualidade e estilo para você",
+  "description": "Encontre os melhores produtos com preços incríveis e entrega rápida",
+  "colors": {
+    "primary": "slate",
+    "secondary": "gray",
+    "accent": "blue"
+  },
+  "contact": {
+    "email": "contato@lojapremium.com.br",
+    "phone": "+55 (11) 99999-9999",
+    "whatsapp": "+5511999999999"
+  },
+  "social": {
+    "instagram": "https://instagram.com/lojapremium",
+    "facebook": "https://facebook.com/lojapremium",
+    "twitter": "https://twitter.com/lojapremium"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "pageTitle": "Ofertas Imperdíveis",
+  "pageDescription": "produtos com desconto especial",
+  "sections": {
+    "topDeals": {
+      "enabled": true,
+      "title": "Melhores Ofertas",
+      "subtitle": "As maiores oportunidades",
+      "icon": "sparkles",
+      "limit": 3,
+      "layout": "large"
+    },
+    "flashSales": {
+      "enabled": true,
+      "title": "Ofertas Relâmpago",
+      "subtitle": "Por tempo limitado",
+      "icon": "zap",
+      "limit": 4,
+      "layout": "compact",
+      "badge": {
+        "text": "Por tempo limitado",
+        "color": "red"
+      }
+    },
+    "allOffers": {
+      "enabled": true,
+      "title": "Todas as Ofertas",
+      "icon": "trending-down",
+      "showCount": true
+    }
+  },
+  "banners": {
+    "enabled": true,
+    "limit": 2,
+    "height": "medium"
+  },
+  "filters": {
+    "minDiscount": 0,
+    "categories": [],
+    "sortBy": "discount"
+  }
+}

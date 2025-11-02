@@ -1,0 +1,23 @@
+{
+  "options": [
+    {
+      "id": "standard",
+      "name": "Frete Padrão",
+      "deliveryTime": "5-7 dias úteis",
+      "price": 15.90
+    },
+    {
+      "id": "express",
+      "name": "Frete Expresso",
+      "deliveryTime": "2-3 dias úteis",
+      "price": 29.90
+    },
+    {
+      "id": "free",
+      "name": "Frete Grátis",
+      "deliveryTime": "7-10 dias úteis",
+      "price": 0,
+      "minPurchase": 200
+    }
+  ]
+}

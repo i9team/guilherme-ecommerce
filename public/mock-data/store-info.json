@@ -1,0 +1,40 @@
+{
+  "name": "Loja Premium",
+  "logo": "https://images.pexels.com/photos/1787236/pexels-photo-1787236.jpeg?auto=compress&cs=tinysrgb&w=200",
+  "rating": 4.9,
+  "totalReviews": 1547,
+  "reviews": [
+    {
+      "id": "sr1",
+      "userName": "Carlos Alberto",
+      "rating": 5,
+      "comment": "Loja excelente! Produtos de qualidade e entrega super rápida. Recomendo!",
+      "date": "2024-10-20",
+      "verified": true
+    },
+    {
+      "id": "sr2",
+      "userName": "Mariana Costa",
+      "rating": 5,
+      "comment": "Sempre compro aqui. Atendimento perfeito e produtos originais.",
+      "date": "2024-10-18",
+      "verified": true
+    },
+    {
+      "id": "sr3",
+      "userName": "Pedro Santos",
+      "rating": 5,
+      "comment": "Melhor loja online! Preços justos e entrega no prazo.",
+      "date": "2024-10-15",
+      "verified": true
+    },
+    {
+      "id": "sr4",
+      "userName": "Ana Paula",
+      "rating": 4,
+      "comment": "Muito bom! Só o frete que poderia ser mais rápido.",
+      "date": "2024-10-12",
+      "verified": true
+    }
+  ]
+}

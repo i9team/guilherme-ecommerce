@@ -1,0 +1,20 @@
+{
+  "mode": "steps",
+  "enabledFields": {
+    "name": true,
+    "email": true,
+    "phone": true,
+    "cpf": true,
+    "zipCode": true,
+    "street": true,
+    "number": true,
+    "complement": true,
+    "neighborhood": true,
+    "city": true,
+    "state": true
+  },
+  "orderBumps": {
+    "enabled": true,
+    "position": "direct"
+  }
+}

@@ -1,0 +1,328 @@
+[
+  {
+    "id": "1",
+    "name": "Camiseta Premium Básica",
+    "slug": "camiseta-premium-basica",
+    "price": 89.90,
+    "discountPrice": 69.90,
+    "category": "Moda",
+    "subcategory": "Camisetas",
+    "mainImage": "https://images.pexels.com/photos/8532616/pexels-photo-8532616.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/8532616/pexels-photo-8532616.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/8532593/pexels-photo-8532593.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/8532619/pexels-photo-8532619.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Camiseta premium confeccionada em 100% algodão penteado. Tecido macio e respirável, perfeito para o dia a dia. Modelagem confortável que não deforma após lavagens.",
+    "variations": [
+      {
+        "type": "size",
+        "name": "Tamanho",
+        "options": ["P", "M", "G", "GG"]
+      },
+      {
+        "type": "color",
+        "name": "Cor",
+        "options": ["Preto", "Branco", "Cinza", "Azul Marinho"]
+      }
+    ],
+    "stock": 150,
+    "rating": 4.8,
+    "reviewCount": 127
+  },
+  {
+    "id": "2",
+    "name": "Tênis Esportivo Confort",
+    "slug": "tenis-esportivo-confort",
+    "price": 299.90,
+    "discountPrice": 249.90,
+    "category": "Moda",
+    "subcategory": "Calçados",
+    "mainImage": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2529147/pexels-photo-2529147.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Tênis esportivo desenvolvido para máximo conforto e performance. Solado em EVA com alta durabilidade, palmilha anatômica e cabedal respirável. Ideal para caminhadas e corridas leves.",
+    "variations": [
+      {
+        "type": "size",
+        "name": "Tamanho",
+        "options": ["37", "38", "39", "40", "41", "42", "43"]
+      },
+      {
+        "type": "color",
+        "name": "Cor",
+        "options": ["Preto", "Branco", "Cinza"]
+      }
+    ],
+    "stock": 85,
+    "rating": 4.6,
+    "reviewCount": 93
+  },
+  {
+    "id": "3",
+    "name": "Mochila Executiva Premium",
+    "slug": "mochila-executiva-premium",
+    "price": 189.90,
+    "discountPrice": 149.90,
+    "category": "Moda",
+    "subcategory": "Bolsas e Mochilas",
+    "mainImage": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2422476/pexels-photo-2422476.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Mochila executiva com compartimento acolchoado para notebook até 15.6 polegadas. Material impermeável, múltiplos bolsos organizadores e alças ajustáveis ergonômicas.",
+    "variations": [
+      {
+        "type": "color",
+        "name": "Cor",
+        "options": ["Preto", "Cinza Escuro", "Azul Marinho"]
+      }
+    ],
+    "stock": 45,
+    "rating": 4.9,
+    "reviewCount": 201
+  },
+  {
+    "id": "4",
+    "name": "Relógio Digital Smartwatch",
+    "slug": "relogio-digital-smartwatch",
+    "price": 399.90,
+    "discountPrice": 329.90,
+    "category": "Eletrônicos",
+    "subcategory": "Smartwatches",
+    "mainImage": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Smartwatch com monitoramento de atividades físicas, frequência cardíaca, notificações inteligentes e bateria de longa duração. Resistente à água IP68.",
+    "variations": [
+      {
+        "type": "color",
+        "name": "Cor da Pulseira",
+        "options": ["Preto", "Azul", "Vermelho", "Rosa"]
+      }
+    ],
+    "stock": 32,
+    "rating": 4.7,
+    "reviewCount": 156
+  },
+  {
+    "id": "5",
+    "name": "Jaqueta Jeans Premium",
+    "slug": "jaqueta-jeans-premium",
+    "price": 259.90,
+    "discountPrice": 199.90,
+    "category": "Moda",
+    "subcategory": "Jaquetas",
+    "mainImage": "https://images.pexels.com/photos/1335320/pexels-photo-1335320.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/1335320/pexels-photo-1335320.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1124468/pexels-photo-1124468.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Jaqueta jeans clássica em tecido de alta qualidade. Design atemporal que combina com diversos looks. Acabamento premium com costuras reforçadas.",
+    "variations": [
+      {
+        "type": "size",
+        "name": "Tamanho",
+        "options": ["P", "M", "G", "GG"]
+      },
+      {
+        "type": "color",
+        "name": "Cor",
+        "options": ["Azul Claro", "Azul Escuro", "Preto"]
+      }
+    ],
+    "stock": 67,
+    "rating": 4.5,
+    "reviewCount": 89
+  },
+  {
+    "id": "6",
+    "name": "Óculos de Sol Polarizado",
+    "slug": "oculos-sol-polarizado",
+    "price": 149.90,
+    "discountPrice": 99.90,
+    "category": "Moda",
+    "subcategory": "Óculos",
+    "mainImage": "https://images.pexels.com/photos/701877/pexels-photo-701877.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/701877/pexels-photo-701877.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Óculos de sol com lentes polarizadas UV400, proteção total contra raios UVA e UVB. Armação leve e resistente, design moderno e elegante.",
+    "variations": [
+      {
+        "type": "color",
+        "name": "Cor da Armação",
+        "options": ["Preto", "Dourado", "Prata", "Tartaruga"]
+      }
+    ],
+    "stock": 120,
+    "rating": 4.8,
+    "reviewCount": 178
+  },
+  {
+    "id": "7",
+    "name": "Fone de Ouvido Bluetooth",
+    "slug": "fone-ouvido-bluetooth",
+    "price": 279.90,
+    "discountPrice": 219.90,
+    "category": "Eletrônicos",
+    "subcategory": "Áudio",
+    "mainImage": "https://images.pexels.com/photos/3825517/pexels-photo-3825517.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/3825517/pexels-photo-3825517.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Fone de ouvido wireless com cancelamento de ruído ativo, áudio de alta qualidade e bateria de 30 horas. Confortável para uso prolongado.",
+    "variations": [
+      {
+        "type": "color",
+        "name": "Cor",
+        "options": ["Preto", "Branco", "Azul"]
+      }
+    ],
+    "stock": 58,
+    "rating": 4.7,
+    "reviewCount": 142
+  },
+  {
+    "id": "8",
+    "name": "Calça Jeans Skinny",
+    "slug": "calca-jeans-skinny",
+    "price": 179.90,
+    "discountPrice": 139.90,
+    "category": "Moda",
+    "subcategory": "Calças",
+    "mainImage": "https://images.pexels.com/photos/1346187/pexels-photo-1346187.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/1346187/pexels-photo-1346187.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Calça jeans skinny com elastano para maior conforto e mobilidade. Tecido de alta qualidade que não desbota. Modelagem que valoriza o corpo.",
+    "variations": [
+      {
+        "type": "size",
+        "name": "Tamanho",
+        "options": ["36", "38", "40", "42", "44"]
+      },
+      {
+        "type": "color",
+        "name": "Cor",
+        "options": ["Azul Escuro", "Azul Claro", "Preto"]
+      }
+    ],
+    "stock": 95,
+    "rating": 4.6,
+    "reviewCount": 112
+  },
+  {
+    "id": "9",
+    "name": "Bolsa de Couro Feminina",
+    "slug": "bolsa-couro-feminina",
+    "price": 329.90,
+    "category": "Moda",
+    "subcategory": "Bolsas e Mochilas",
+    "mainImage": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1152078/pexels-photo-1152078.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Bolsa feminina em couro legítimo, design elegante e atemporal. Compartimentos internos organizados, alça ajustável. Perfeita para o dia a dia.",
+    "variations": [
+      {
+        "type": "color",
+        "name": "Cor",
+        "options": ["Preto", "Marrom", "Caramelo", "Vinho"]
+      }
+    ],
+    "stock": 42,
+    "rating": 4.9,
+    "reviewCount": 187
+  },
+  {
+    "id": "10",
+    "name": "Perfume Masculino Premium",
+    "slug": "perfume-masculino-premium",
+    "price": 249.90,
+    "discountPrice": 199.90,
+    "category": "Beleza",
+    "subcategory": "Perfumes",
+    "mainImage": "https://images.pexels.com/photos/3373736/pexels-photo-3373736.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/3373736/pexels-photo-3373736.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/3685530/pexels-photo-3685530.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Perfume masculino sofisticado com notas amadeiradas e cítricas. Fragrância marcante e duradoura. Frasco elegante de 100ml.",
+    "variations": [
+      {
+        "type": "size",
+        "name": "Tamanho",
+        "options": ["50ml", "100ml"]
+      }
+    ],
+    "stock": 73,
+    "rating": 4.8,
+    "reviewCount": 165
+  },
+  {
+    "id": "11",
+    "name": "Caderno Executivo Capa Dura",
+    "slug": "caderno-executivo-capa-dura",
+    "price": 79.90,
+    "discountPrice": 59.90,
+    "category": "Escritório",
+    "subcategory": "Cadernos",
+    "mainImage": "https://images.pexels.com/photos/256520/pexels-photo-256520.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/256520/pexels-photo-256520.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/159751/book-address-book-learning-learn-159751.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Caderno executivo com capa dura premium, 200 folhas pautadas. Papel de alta gramatura, ideal para anotações profissionais e estudos.",
+    "variations": [
+      {
+        "type": "color",
+        "name": "Cor",
+        "options": ["Preto", "Azul", "Vermelho", "Cinza"]
+      }
+    ],
+    "stock": 156,
+    "rating": 4.5,
+    "reviewCount": 98
+  },
+  {
+    "id": "12",
+    "name": "Garrafa Térmica Inox",
+    "slug": "garrafa-termica-inox",
+    "price": 119.90,
+    "discountPrice": 89.90,
+    "category": "Casa",
+    "subcategory": "Garrafas",
+    "mainImage": "https://images.pexels.com/photos/4022092/pexels-photo-4022092.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/4022092/pexels-photo-4022092.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/7262775/pexels-photo-7262775.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Garrafa térmica em aço inox 500ml. Mantém bebidas geladas por 24h e quentes por 12h. Tampa com vedação hermética, livre de BPA.",
+    "variations": [
+      {
+        "type": "color",
+        "name": "Cor",
+        "options": ["Prata", "Preto", "Azul", "Rosa"]
+      },
+      {
+        "type": "size",
+        "name": "Capacidade",
+        "options": ["500ml", "750ml", "1L"]
+      }
+    ],
+    "stock": 87,
+    "rating": 4.7,
+    "reviewCount": 134
+  }
+]
